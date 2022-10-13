@@ -1,5 +1,5 @@
 
-No segundo dia, aprofundamos nossos conhecimentos em relacao aos comandos aprendidos no dia anterior alem disso nos foi ensinado os conceitos de "Inputs e Outputs". 
+No segundo dia, aprofundamos nossos conhecimentos em relação aos comandos aprendidos no dia anterior, além disso nos foi ensinado os conceitos de "Inputs e Outputs". 
 Conhecemos novos comandos, tais quais:
 
 - cat > 
@@ -8,5 +8,5 @@ Conhecemos novos comandos, tais quais:
 - | (pipe)
 - ls -l 
 
-Aprendemos tambem sobre PERMISSOES, como ler as permissoes de cada diretorio, e os comandos que possibilitam alterar, suspender, colocar em background e demais funcionalidades a respeito da mesma, alem das variaoes do comando 'chmod';
+Aprendemos também sobre permissões, como ler as permissões de cada diretório, e os comandos que possibilitam alterar, suspender, colocar em background e demais funcionalidades a respeito da mesma,  além das variações do comando 'chmod';
 
