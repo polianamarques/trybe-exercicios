@@ -1,4 +1,4 @@
- Neste primeiro dia, aprendemos os conceitos de Unix, Shell e aplicativos, alem disso, aprendemos tambem alguns comandos para utilizar no Terminal tais quais:
+ Neste primeiro dia, aprendemos os conceitos de Unix, Shell e aplicativos, além disso, aprendemos tambem alguns comandos para utilizar no Terminal tais quais:
 - cd
 - cd ..
 - pwd
@@ -16,4 +16,5 @@
 - grep
 - wc -l 
 - touch 
+
  Dentre outros; 
