@@ -12,7 +12,8 @@ div:nth-of-type(2){
     color:green
 }
 div:nth-of-type(3){
-    color:violet
+    color:violet;
+    font-size: larger;
 }
 div:nth-of-type(4){
     color: brown
