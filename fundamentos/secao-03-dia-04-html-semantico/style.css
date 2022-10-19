@@ -1,0 +1,49 @@
+
+
+ aside, footer, nav {
+    border-top: 1px gray solid;
+ }
+   body {
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 20px; 
+ line-height: normal;
+ width: 70%;
+   } 
+    .header {padding: 10px;
+    text-align: center;
+}
+
+  .navegacao {
+
+    padding:5px;
+    position: relative;
+    top: 15px; 
+    text-align: center;
+    }
+
+.imagem01 { padding: 150px;
+     position: relative;
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imagem02 {
+   height: 400px;
+   width: auto;
+   display: block;
+   margin-left: auto;
+}
+.adjacente [
+
+]
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+    table {
+        width: 100%;
+    }
