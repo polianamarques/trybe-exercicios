@@ -10,7 +10,11 @@
     text-align: center;
 }
 
-.imagem01 {
+.imagem01 { padding: 150px;
+     position: relative;
     height: 400px;
     width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
