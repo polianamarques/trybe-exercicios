@@ -36,14 +36,29 @@
 
 // Exercicio 5 
 
-let anguloA = 80
-let anguloB = 30
-let anguloC =70
+// let anguloA = 80
+// let anguloB = 30
+// let anguloC =70
 
-if(anguloA + anguloB + anguloC === 180){
-    console.log(true)
-} else if(anguloA + anguloB + anguloC !== 180){
-    console.log(false)
-} else {
-    console.log('ERRO! Contem algum ângulo inválido')
-}
+// if(anguloA + anguloB + anguloC === 180){
+//     console.log(true)
+// } else if(anguloA + anguloB + anguloC !== 180){
+//     console.log(false)
+// } else {
+//     console.log('ERRO! Contem algum ângulo inválido')
+// }
+let pecaDeXadrez = 'rainha';
+
+switch(pecaDeXadrez.toLowerCase()){
+case 'torre': 
+    console.log('Anda apenas na horizontal e na vertical');
+    break
+ case 'rei':
+    console.log('Anda apenas 1 casa em qualquer direcao');
+    break
+case 'rainha': 
+    console.log ('Anda em todas as direcoes, horizontal, vertical e diagonal');
+    break
+    default: 
+    console.log('Erro!Peça invalida');
+};
