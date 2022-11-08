@@ -79,6 +79,15 @@
  } 
  corrigindoTexto('h1','0','Exercício - JavaScript');
 
+ //5.Crie e execute uma função que modifique o texto da primeira tag <p> para maiúsculo. 
+
+function alterandoTexto(elemento, indice){
+let alteraTexto = document.getElementsByTagName(elemento)[indice].innerText;
+alteraTexto.toUpperCase();
+} 
+alterandoTexto('p','0');
+
+
 </script>
   </body>
 </html>
