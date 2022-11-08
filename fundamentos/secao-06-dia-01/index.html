@@ -13,11 +13,23 @@
        <br>
  <main>
      <label for="nome">Nome:</label>
-     <input type="text" name="name" id="name" required autocomplete="off" placeholder="Digite seu nome">  <br>
-      <label for="">E-mail:</label><input type="email" name="e-mail"required placeholder="Digite seu e-mail"> 
+         <input type="text" name="name" id="name" required autocomplete="off" placeholder="Limitado  entre 10 e 40 caracteres" minlength="" maxlength="40" > 
+             <br>
+     <label for="">E-mail:</label>
+         <input type="email" name="e-mail"required placeholder="Limitado entre 10 e 50 caracteres" minlength="10" maxlength="50"> 
+             <p>Destino Preferido</p>
+             <input type="radio" name="destino-preferido" id="cidade" class="destination">
+                  <label for="cidade"> Cidade </label>
+                      <input type="radio" name="destino-preferido" id="campo"class="destination">
+                          <label for="campo"> Campo </label>
+                             <input type="radio" name="destino-preferido" id="praia"class="destination">
+                                 <label for="cidade"> Praia </label>
+                                 <input type="radio" name="destino-preferido" id="montanhas"class="destination">
+                                     <label for="cidade"> Montanhas </label>
+                                     <br> <br> 
+         <textarea name="melhor-resposta" id="bestIdea" cols="50" rows="20" maxlength="500">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?</textarea>
     
-    <br> <br> <br>
-    <button type="submit">Entrar</button>
+      <button type="submit">Entrar</button>
 
 
  </main></form>
