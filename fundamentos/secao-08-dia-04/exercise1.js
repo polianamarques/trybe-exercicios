@@ -10,3 +10,6 @@ const rectangles = [rectangle1, rectangle2, rectangle3];
 rectangles.forEach((rectangle) => {
   console.log(rectangleArea(...rectangle)); // Altere o parâmetro recebido por rectangleArea()
 });
+
+// o Spread  é responsavel por espalhar valores, e ele pode ser utilizado para passar paramentros ao EXECUTAR uma função. 
+// No caso acima, o spread esta passando como parametro os valores de rectangles, que é um array de arrays
