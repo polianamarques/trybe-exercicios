@@ -37,3 +37,31 @@ const otherPerson = {
 ;
 console.log(getNationality(otherPerson)); // Ivan is Russian
 console.log(getNationality(person));
+
+
+//Shorthand 
+//É exatamente essa repetição que a feature property shorthand elimina: podemos simplesmente substituir id: id por id que o Javascript entende que você quer atribuir o valor de id a uma propriedade com o mesmo nome que o parâmetro passado:
+
+// const newUser = (id, name, email) => {
+//     return {
+//       id,
+//       name,
+//       email,
+//     };
+//   };
+  
+//   console.log(newUser(54, 'isabella', 'isabella@email.com')); // { id: 54, name: 'isabella', email: 'isabella@email.com' }
+
+const getPosition = (latitude, longitude) => ({
+    latitude,
+    longitude,
+  });
+  
+  console.log(getPosition(-19.8157, -43.9542));
+
+//Parametro Default 
+
+// Caso não seja passado um valor para value ele agora assumirá o valor padrão de 1.
+const multiply = (number, value = 1) => number * value;
+
+console.log(multiply(8));
