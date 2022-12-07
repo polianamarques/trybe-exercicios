@@ -1,8 +1,13 @@
+*{
+  font-style: normal;
+
+}
+
 body{ text-align: center;
-    background-color: rgb(199, 165, 171);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
     margin: 5%;
 }
-#bestIdea{ background-color: rgb(199, 165, 171);
+main{ background: rgb(183,233,223);
+    background: linear-gradient(0deg, rgba(183,233,223,1) 75%, rgba(204,159,196,1) 100%);
 
 }
