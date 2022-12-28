@@ -1,3 +1,4 @@
+//DESAFIO ACADEMIA DE LOGICA
 //1 - Faça um algoritmo que calcule a soma de 1 a 50 usando a estrutura "for" e retorne no formato:
 // A soma total de 1 a 50 é: X
 // 2 - Crie um algoritmo que conte quantos números do intervalo entre 2 e 150 são divisíveis por 3.
@@ -20,3 +21,4 @@ for(index = 0;index < numbers.length; index +=1){
     resultado += numbers[index]
 }
 console.log('A soma total de 1 a 50 é: ', resultado);
+
