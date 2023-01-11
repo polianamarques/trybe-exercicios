@@ -1,0 +1,12 @@
+{
+  "name": "secao-01-dia-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scprits.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
