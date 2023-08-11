@@ -7,3 +7,4 @@ export default  async function getUser(userId: string) {
       res.json()
     )
 }
+

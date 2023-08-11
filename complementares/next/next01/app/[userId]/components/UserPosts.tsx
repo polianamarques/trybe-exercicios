@@ -4,7 +4,7 @@ type Props = {
 
 
 
-export default async function UserPost({promise }: Props) {
+export default async function UserPosts({promise }: Props) {
     const posts = await promise
 
     const content = posts.map((post) => {
