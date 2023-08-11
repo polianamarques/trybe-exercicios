@@ -31,7 +31,6 @@ export default async function UsersPage() {
             })}
         </section>
       )
-  return (
-   content
-  )
+  return content
+  
 }
