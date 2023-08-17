@@ -1,5 +1,6 @@
 import area
-
+# O import é utilizado para termos todas as funções
+# do módulo disponíveis em outro arquivo.
 
 PEOPLE_PER_SQUARE_METER = 2  # numero de pessoas por metro quadrado em média
 FIELD_LENGTH = 60  # em metros
