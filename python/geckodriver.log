@@ -1,0 +1,229 @@
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1696948807708	geckodriver	INFO	Listening on 127.0.0.1:51363
+1696948807891	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef9S5PP"
+Gtk-Message: 11:40:07.915: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:13074): Gtk-WARNING **: 11:40:07.996: GTK+ module /snap/firefox/3206/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 11:40:07.996: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:40:07.997: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:13074): Gtk-WARNING **: 11:40:07.998: GTK+ module /snap/firefox/3206/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 11:40:07.998: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:40:07.999: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1696948808774	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1696948808927	Marionette	INFO	Listening on port 34569
+WebDriver BiDi listening on ws://127.0.0.1:46099
+Read port: 34569
+1696948809128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:10.231: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:10.231: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:10.231: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:10.231: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+DevTools listening on ws://127.0.0.1:46099/devtools/browser/3068772d-5dee-4c31-997d-437395a6b9b1
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:11.225: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:11.225: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:11.417: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:11.417: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:11.522: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:11.522: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:12.778: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:12.778: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:12.778: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:12.778: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:34.138: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:34.138: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:34.138: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:40:34.138: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1696949036522	geckodriver	INFO	Listening on 127.0.0.1:40359
+1696949037046	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejlTBWf"
+Gtk-Message: 11:43:57.072: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:14042): Gtk-WARNING **: 11:43:57.185: GTK+ module /snap/firefox/3206/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 11:43:57.185: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:43:57.185: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+(firefox:14042): Gtk-WARNING **: 11:43:57.187: GTK+ module /snap/firefox/3206/gnome-platform/usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so cannot be loaded.
+GTK+ 2.x symbols detected. Using GTK+ 2.x and GTK+ 3 in the same process is not supported.
+Gtk-Message: 11:43:57.187: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:43:57.187: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1696949037712	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1696949037786	Marionette	INFO	Listening on port 44557
+WebDriver BiDi listening on ws://127.0.0.1:36741
+Read port: 44557
+1696949037956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:43:58.652: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:43:58.653: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:43:58.653: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:43:58.653: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+DevTools listening on ws://127.0.0.1:36741/devtools/browser/2ed78ffb-06c7-4b93-8da7-4b777fd805fd
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:43:59.931: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:43:59.931: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:00.580: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:00.581: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:00.603: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:00.603: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:01.825: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:01.826: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:01.826: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:01.826: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com.br."
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:01.990: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:01.990: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:44:02.313: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:44:02.313: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 13074, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:44:02.313: invalid (NULL) pointer instance
+[Parent 13074, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:13074): GLib-GObject-CRITICAL **: 11:44:02.313: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:02.396: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:02.396: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:02.396: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:02.396: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:02.404: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:02.404: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH, line 139: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:139:17
+xz@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:448:134
+yz/<@https://www.googletagmanager.com/gtag/js?id=G-TF35YF9CVH:448:111
+
+1696949042607	Marionette	INFO	Stopped listening on port 34569
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:03.754: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:03.755: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:03.806: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:03.806: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:06.011: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:06.011: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:06.011: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:06.011: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:06.239: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:06.239: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+[Parent 14042, Main Thread] WARNING: invalid (NULL) pointer instance: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:06.273: invalid (NULL) pointer instance
+[Parent 14042, Main Thread] WARNING: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed: 'glib warning', file /build/firefox/parts/firefox/build/toolkit/xre/nsSigHandlers.cpp:167
+
+(firefox:14042): GLib-GObject-CRITICAL **: 11:44:06.273: g_signal_emit_by_name: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
